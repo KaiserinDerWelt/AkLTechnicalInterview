@@ -15,5 +15,5 @@ Please answer the following questions, explaining your reasoning:
 - Do audiences prefer longer films, or shorter films?  You may choose to simply outline your methodology to approach this problem.
 
 ## Documentation of results
-The output of the present assignment is available in the following path
+The output of the present assignment is available in the following URL [Here](https://github.com/KaiserinDerWelt/AkLTechnicalInterview/blob/KaiserinDerWelt-patch-1/ResultsSOCEng.pdf)
 
