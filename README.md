@@ -1,5 +1,5 @@
 # AkLTechnicalInterview
-This is a Security Interview Exercise.
+This is a Security Operation Center Engineer Interview Exercise.
 ## Introduction
 The following is a short exercise to allow us to understand how you problem solve.  This exercise should take no more than one (1) hour.  Documenting your thinking is more important than the answer.Please include any scripts or visualisations that you may have used in determining your answers.
 ## Assets
