@@ -1,0 +1,18 @@
+SELECT COUNT(*) AS total_peliculas_8_o_mas 
+FROM title_basics_2018 b 
+JOIN title_ratings r ON b.tconst = r.tconst 
+WHERE b.year = 2018 AND r.averageRating >= 8.0; 
+SELECT  
+CASE  
+WHEN b.runtimeMinutes < 90 THEN 'Short (<90 min)' 
+WHEN b.runtimeMinutes BETWEEN 90 AND 120 THEN 'Medium (90–120 min)' 
+WHEN b.runtimeMinutes > 120 THEN 'Long (>120 min)' 
+ELSE 'Unknown' 
+END AS film_length, 
+COUNT(*) AS film_count, 
+AVG(r.numVotes) AS avg_votes 
+FROM title_basics_2018 b 
+JOIN title_ratings r ON b.tconst = r.tconst 
+WHERE b.runtimeMinutes IS NOT NULL 
+GROUP BY film_length 
+ORDER BY avg_votes DESC; 

@@ -1,7 +1,7 @@
 # AkLTechnicalInterview
-This is a Security Interview Exercise.
+This is a Security Operation Center Engineer Interview Exercise.
 ## Introduction
-The following is a short exercise to allow us to understand how you problem solve.  This exercise should take no more than one (1) hour.  Documenting your thinking is more important than the answer.Please include any scripts or visualisations that you may have used in determining your answers.
+The following is a short exercise to allow us to understand how you problem solve.  This exercise should take no more than one  hour.  Documenting your thinking is more important than the answer.Please include any scripts or visualisations that you may have used in determining your answers.
 ## Assets
 Included with this exercise are two files which contain movie related data pulled from IMDB:
 - title_basics_2018.csv - A file containing all movies released in 2018.
@@ -15,5 +15,5 @@ Please answer the following questions, explaining your reasoning:
 - Do audiences prefer longer films, or shorter films?  You may choose to simply outline your methodology to approach this problem.
 
 ## Documentation of results
-The output of the present assignment is available in the following path
+The output of the present assignment is available in the following URL [Here](https://github.com/KaiserinDerWelt/AkLTechnicalInterview/blob/KaiserinDerWelt-patch-1/ResultsSOCEng.pdf)
 
